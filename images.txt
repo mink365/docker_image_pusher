@@ -1,3 +1,5 @@
 nginx
 
 dmrusanov11/docker-osx:sonoma
+
+apstech/docker-osx:latest
