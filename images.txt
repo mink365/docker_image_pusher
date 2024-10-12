@@ -1,3 +1,3 @@
 nginx
 
-docker-osx:latest
+dmrusanov11/docker-osx:sonoma
