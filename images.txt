@@ -1,2 +1,4 @@
+nginx
+
 #支持私库
 sickcodes/docker-osx:latest
